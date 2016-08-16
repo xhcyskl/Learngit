@@ -10,6 +10,8 @@ int main()
 	{
 		printf("a:%d\r\n",a);
 	}
-
+	
+	printf("Learn Git\r\n");
+	
 	return 0;
 }
