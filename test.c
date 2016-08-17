@@ -17,7 +17,7 @@ int main()
 
 	printf("visiyun...\r\n");
 
-	printf();
+	printf("Deal with issue-101\r\n");
 
 	
 
